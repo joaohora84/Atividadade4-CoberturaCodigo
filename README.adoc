@@ -1,1 +1,1 @@
-image::relagorio.png[]
+image::relatorio.png[]
