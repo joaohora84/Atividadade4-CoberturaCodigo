@@ -63,6 +63,7 @@ public class ContaTest {
         final double obtido = instance.getSaldoTotal();
         assertEquals(esperado, obtido);
     }
+
     
     @Test
     void testDepositoDinheiro(){
@@ -145,7 +146,8 @@ public class ContaTest {
         assertEquals(esperado, obtido);
          
     }
-    
+ 
+     
     @Test
     void testAddMovimentacaoCredito(){
         
